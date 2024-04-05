@@ -1,0 +1,14 @@
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\bin\Debug\net6.0\Classes_Null_Ashton.exe
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\bin\Debug\net6.0\Classes_Null_Ashton.deps.json
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\bin\Debug\net6.0\Classes_Null_Ashton.runtimeconfig.json
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\bin\Debug\net6.0\Classes_Null_Ashton.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\bin\Debug\net6.0\Classes_Null_Ashton.pdb
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.AssemblyInfoInputs.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.AssemblyInfo.cs
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.csproj.CoreCompileInputs.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\refint\Classes_Null_Ashton.dll
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.pdb
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\Classes_Null_Ashton.genruntimeconfig.cache
+C:\Users\AshtonNull\OneDrive - Green Country Technology Center\Classes_Null_Ashton\obj\Debug\net6.0\ref\Classes_Null_Ashton.dll
